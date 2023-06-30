@@ -1,3 +1,6 @@
 # Sound_kit
-![image](https://github.com/TRUP03/Sound_kit/assets/98757259/271de6a2-1204-4fd4-b55d-c84b6586e489)
+
+
+![Screenshot (560)](https://github.com/TRUP03/Sound_kit/assets/98757259/74d07537-4283-4300-9387-dfee88cc2666)
+
 
